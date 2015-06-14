@@ -9,11 +9,38 @@ and open the template in the editor.
 */
 
 body{
-    background-color: black;
+     background-color: black; 
     color:white;
 }
 #logo img{
      margin: 0 auto;
     display: block;
     margin-top: 50px;
+}
+#bienvenida img{
+    margin: 0 auto;
+    display: block;
+    margin-top: 50px;
+}
+#menu{
+    text-align: center;
+}
+#menu ul{
+    list-style-type: none;
+}
+#menu ul li{
+    display: inline;
+    border:aqua solid thin ;
+    background-color:red;
+   color:black; 
+    padding: 5px;
+    margin-left: 10px;
+}
+#menu ul li:hover{
+    background-color:yellow;
+   color:blue; 
+}
+#menu_miembros{
+    background-image: url('../images/dota2.png');
+    color : #FF00AA !important;
 }

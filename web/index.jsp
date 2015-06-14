@@ -17,7 +17,7 @@
         <div id="logo">
             <img src ="./images/dota-2.jpg">
         </div>
-        <div>
+        <div id="menu">
             <ul>
                 <li id="menu_home"> HOME</li>
                 <li id="menu_noticias"> NOTICIAS</li>
@@ -26,7 +26,7 @@
                 <li id="menu_logueo"> LOGEO</li>
             </ul>
         </div>
-        <div>
+        <div id="bienvenida">
             <img src ="./images/dota2.png">
         </div>
         <div>
